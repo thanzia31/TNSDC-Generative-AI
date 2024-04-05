@@ -24,8 +24,8 @@ Dataset Download Link: [Hate Speech and Offensive Language Dataset](https://www.
 
 ## Neural Network Details
 - Convolutional Neural Network (CNN)
-- Gender Accuracy: 90.00%
-- Age Mean Absolute Error (MAE): 6.5
+- Text moderation Accuracy: 90.00%
+- Image moderation Accuracy: 93%
 
 ## Demo Video
 A demo video showcasing the project can be viewed [here](https://drive.google.com/drive/folders/1ULACoRMPuLPbz6wpXaRhlAUiS5gRHiJ3?usp=drive_link)
